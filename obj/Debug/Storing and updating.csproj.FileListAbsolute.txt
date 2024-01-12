@@ -1,0 +1,7 @@
+C:\Users\gunav\Storing and updating\Storing and updating\bin\Debug\Storing and updating.exe.config
+C:\Users\gunav\Storing and updating\Storing and updating\bin\Debug\Storing and updating.exe
+C:\Users\gunav\Storing and updating\Storing and updating\bin\Debug\Storing and updating.pdb
+C:\Users\gunav\Storing and updating\Storing and updating\obj\Debug\Storing and updating.csproj.AssemblyReference.cache
+C:\Users\gunav\Storing and updating\Storing and updating\obj\Debug\Storing and updating.csproj.CoreCompileInputs.cache
+C:\Users\gunav\Storing and updating\Storing and updating\obj\Debug\Storing and updating.exe
+C:\Users\gunav\Storing and updating\Storing and updating\obj\Debug\Storing and updating.pdb
